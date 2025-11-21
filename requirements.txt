@@ -2,7 +2,7 @@ fastapi
 Flask==2.3.3
 Flask-CORS==4.0.0
 pandas==2.0.3
-scikit-learn==1.3.0
+scikit-learn==1.3.2
 xgboost==1.7.6
 numpy==1.24.3
 joblib==1.3.2
